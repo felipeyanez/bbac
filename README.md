@@ -1,6 +1,6 @@
 # bbac: Bregman block average co-clustering
 
-This is an R implementation of the [Bregman block average co-clustering algorithm (Banerjee et al., 2007a).](http://www.jmlr.org/papers/volume8/banerjee07a/banerjee07a.pdf). The [BBAC code in Matlab](http://www.ideal.ece.utexas.edu/software.html) written by Srujana Merugu and Arindam Banerjee was used as a reference.
+This is an R implementation of the [Bregman Block Average Co-clustering (BBAC) algorithm (Banerjee et al., 2007a)](http://www.jmlr.org/papers/volume8/banerjee07a/banerjee07a.pdf). The [BBAC code in Matlab](http://www.ideal.ece.utexas.edu/software.html) written by Srujana Merugu and Arindam Banerjee was used as a reference.
 
 ## Example
 
